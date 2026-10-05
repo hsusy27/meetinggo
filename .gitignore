@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.mp3
+*.wav
+temp_chunk_*.mp3
+*.m4a
+output/
